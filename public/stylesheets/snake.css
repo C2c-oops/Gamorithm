@@ -1,4 +1,6 @@
 #gamecanvas {
 	background-image: url("../assets/board.jpg");
-	border: 20px solid green;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
